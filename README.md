@@ -17,3 +17,4 @@ Need to report a security vulnerability? Go to [https://automattic.com/security/
 ## License
 
 super-cache is licensed under [GNU General Public License v2 (or later)](./LICENSE.txt)
+
